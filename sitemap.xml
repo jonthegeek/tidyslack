@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/404.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/CODE_OF_CONDUCT.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/CONTRIBUTING.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/SUPPORT.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/index.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ds.github.io/tidyslack/reference/tidyslack-package.html</loc>
+  </url>
+</urlset>
