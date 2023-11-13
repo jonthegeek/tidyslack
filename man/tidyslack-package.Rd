@@ -11,9 +11,9 @@ Clean and organize data retrieved from the Slack api.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/r4ds/tidyslack}
-  \item \url{https://r4ds.github.io/tidyslack/}
-  \item Report bugs at \url{https://github.com/r4ds/tidyslack/issues}
+  \item \url{https://jonthegeek.github.io/tidyslack/}
+  \item \url{https://github.com/jonthegeek/tidyslack}
+  \item Report bugs at \url{https://github.com/jonthegeek/tidyslack/issues}
 }
 
 }
