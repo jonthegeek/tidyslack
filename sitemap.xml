@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://r4ds.github.io/tidyslack/404.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/404.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/CODE_OF_CONDUCT.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/CONTRIBUTING.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/CONTRIBUTING.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/LICENSE-text.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/LICENSE.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/SUPPORT.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/SUPPORT.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/authors.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/authors.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/index.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/index.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/reference/index.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/reference/dot-normalize_channels.html</loc>
   </url>
   <url>
-    <loc>https://r4ds.github.io/tidyslack/reference/tidyslack-package.html</loc>
+    <loc>https://jonthegeek.github.io/tidyslack/reference/fetch_all_channel_conversations.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/tidyslack/reference/fetch_all_conversation_replies.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/tidyslack/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/tidyslack/reference/tidy_conversations.html</loc>
+  </url>
+  <url>
+    <loc>https://jonthegeek.github.io/tidyslack/reference/tidyslack-package.html</loc>
   </url>
 </urlset>
