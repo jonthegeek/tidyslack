@@ -8,9 +8,19 @@ Description: Clean and organize data retrieved from the Slack api.
 License: MIT + file LICENSE
 URL: https://github.com/r4ds/tidyslack, https://r4ds.github.io/tidyslack/
 BugReports: https://github.com/r4ds/tidyslack/issues
+Imports: 
+    cli,
+    glue,
+    purrr,
+    rlang,
+    slackteams,
+    slackthreads
 Suggests: 
     covr,
     testthat (>= 3.0.0)
+Remotes:
+    yonicd/slackteams,
+    yonicd/slackthreads
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
