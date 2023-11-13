@@ -10,11 +10,15 @@ URL: https://jonthegeek.github.io/tidyslack/, https://github.com/jonthegeek/tidy
 BugReports: https://github.com/jonthegeek/tidyslack/issues
 Imports: 
     cli,
+    dplyr,
     glue,
     purrr,
     rlang,
     slackteams,
-    slackthreads
+    slackthreads,
+    tibble,
+    tidyr,
+    vctrs
 Suggests: 
     covr,
     testthat (>= 3.0.0)

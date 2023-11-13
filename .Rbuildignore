@@ -1,5 +1,6 @@
 ^tidyslack\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
 ^LICENSE\.md$
 ^cran-comments\.md$
 ^\.github$
@@ -7,4 +8,3 @@
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
-^data-raw$
